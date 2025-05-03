@@ -1,4 +1,4 @@
-# Generic cache with second chance algorithm
+# Generic cache using the second chance algorithm
 
 This package implements a cache uses the second hand algorithm with a bit map and
 atomic operations. It allows fast and parallel `Get` operations. The `Has` method
